@@ -1,0 +1,6 @@
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\DigicallTest\DigicallTest\DigicallTest.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\DigicallTest\DigicallTest\DigicallTest.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\DigicallTest\DigicallTest\DigicallTest.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\DigicallTest\DigicallTest\DigicallTest.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\DigicallTest\DigicallTest\DigicallTest.iOS\obj\iPhone\Debug\DigicallTest.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2017\Projects\DigicallTest\DigicallTest\DigicallTest.iOS\obj\iPhone\Debug\DigicallTest.iOS.csproj.CoreCompileInputs.cache
